@@ -36,10 +36,10 @@ This project was created using Anaconda's Jupyter Notebook using the language py
 
 The project consist of two main files: 
 - #### Part I- Data Exploration: 
-`Part_I_exploration.ipynb` and `Part_I_exploration.html`  
+`Part_I_exploration.ipynb`  
 In the Exploration section, I used variety of plotting techniques to explore the dataset from single variable exploration to multivariable exploration to understand the data and its relation to one another.
 - #### Part II- Data Explanation: 
-`Part_II_slide_deck.ipynb` and `Part_II_slide_deck.slides.html`
+`Part_II_slide_deck.ipynb` 
 In the Data Explanation section of my project, I focused on key findings to explain the relationships of variables and their impact on the outcome. 
 -- Dataset used: `201902-fordgobike-tripdata.csv`
 Here is the link to my <a href="http://127.0.0.1:8000/Part_II_slide_deck.slides.html#/">slide deck.
