@@ -4,7 +4,6 @@
 
 <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity Data Analyst Nanodegree</a><br>
 <em>Project 5: Data Visualization</em>
-<>
 
 ### Table of Contents
 
